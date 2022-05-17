@@ -1,0 +1,1 @@
+### go:linkname solve the error when internal import
