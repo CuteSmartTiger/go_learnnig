@@ -1,0 +1,2 @@
+Mysql:
+  DataSource: root:123@tcp(ip:port)/test_db?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai
